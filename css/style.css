@@ -1,0 +1,51 @@
+h1{
+    color: #F13596;
+    text-align: center;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h4{
+    color: #2e3136;
+    text-align: center;
+    font-family: "Varela Round", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p{
+    color: #636363; 
+}
+
+img{
+    border-style: solid;
+    border-color:   #fff8e0;
+    border-radius: 17px;
+}
+
+.my-text{
+    color: white;
+    font-size: 150%;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.my-con{
+    background-color: #ffedf6;
+}
+.my-bg{
+    background-color: #fff8e0;
+}
+.bg-image{
+    background-image: url("../images/bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.my-font{
+    color : white;
+}
